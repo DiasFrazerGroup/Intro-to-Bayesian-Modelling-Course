@@ -1,0 +1,13 @@
+arviz
+ipykernel
+ipython
+matplotlib
+numpy
+numpyro
+pandas
+pyro-ppl
+jax
+scikit-learn
+scipy
+seaborn
+torch
